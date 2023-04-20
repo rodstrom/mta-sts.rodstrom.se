@@ -2,6 +2,7 @@ version: STSv1
 mode: testing
 mx: mail.rodstrom.se
 mx: mail2.rodstrom.se
+mx: lb-vsp01.binero.net
 mx: mxext1.mailbox.org
 mx: mxext2.mailbox.org
 mx: mxext3.mailbox.org
