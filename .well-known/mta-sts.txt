@@ -1,10 +1,7 @@
 version: STSv1
 mode: testing
-mx: *.rodstrom.se
-mx: lb-vsp01.binero.net
 mx: mx.m101.websupport.se
-mx: *.mailbox.org
-mx: *.mx.cloudflare.net
-mx: *.forwardemail.net
-mx: *.inleed.net
-max_age: 604800
+mx: mx1.forwardemail.net
+mx: mx2.forwardemail.net
+mx: ns13.inleed.net
+max_age: 1209600
