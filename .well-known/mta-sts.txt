@@ -1,5 +1,4 @@
 version: STSv1
 mode: enforce
-mx: mx.m101.websupport.se
 mx: ns13.inleed.net
 max_age: 1209600
