@@ -1,5 +1,6 @@
 version: STSv1
 mode: enforce
+mx: ns13.inleed.net
 mx: mx1.forwardemail.net
 mx: mx2.forwardemail.net
 max_age: 1209600
